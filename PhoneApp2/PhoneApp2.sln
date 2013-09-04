@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneApp2", "PhoneApp2\PhoneApp2.csproj", "{08B298E3-B1D2-477B-9533-ABE0C7E36EF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08B298E3-B1D2-477B-9533-ABE0C7E36EF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08B298E3-B1D2-477B-9533-ABE0C7E36EF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08B298E3-B1D2-477B-9533-ABE0C7E36EF2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{08B298E3-B1D2-477B-9533-ABE0C7E36EF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08B298E3-B1D2-477B-9533-ABE0C7E36EF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08B298E3-B1D2-477B-9533-ABE0C7E36EF2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
